@@ -25,6 +25,7 @@ LS2K0300/500是基于LA264处理器核的多功能SoC芯片，支持多种嵌入
 
 ## 参考资源
 *[龙芯相关大赛参考文档](https://github.com/LoongsonLab/oscomp-documents)
+
 *[鸿蒙小型系统芯片移植指导]
 (https://docs.openharmony.cn/pages/v5.0/zh-cn/device-dev/porting/porting-smallchip-prepare-needs.md")
 
