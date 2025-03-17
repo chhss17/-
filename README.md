@@ -12,9 +12,11 @@ LS2K0300/500是基于LA264处理器核的多功能SoC芯片，支持多种嵌入
 ## 项目导师
 * 徐斌 tsuibin@loongson.cn
 
-## 难度：低-中
+## 难度
+低-中
 
-# License：主要仓库遵循Apache License V2.0
+# License
+主要仓库遵循Apache License V2.0
 
 ## 预期目标
 * 确认系统从 Bootloader 到鸿蒙内核的完整启动; 
